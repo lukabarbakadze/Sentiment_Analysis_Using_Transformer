@@ -6,5 +6,5 @@ seaborn==0.11.2
 scikit-learn==1.0.2
 torch==1.12.0+cpu
 torchmetrics==0.11.1v
-streamlit==1.12.2
+streamlit==1.18.1
 nltk==3.8.1
