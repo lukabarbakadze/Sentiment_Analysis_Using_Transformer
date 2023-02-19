@@ -38,9 +38,6 @@ tzdata==2022.7
 uvicorn==0.20.0
 wcwidth==0.2.6
 
-C:\Users\User\Projects\Transformer_Classifier\Sentiment_Analysis_Using_Transformer>conda activate base
-
-(base) C:\Users\User\Projects\Transformer_Classifier\Sentiment_Analysis_Using_Transformer>pip freeze
 absl-py==1.2.0
 aiohttp @ file:///C:/ci/aiohttp_1646806572557/work
 aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
