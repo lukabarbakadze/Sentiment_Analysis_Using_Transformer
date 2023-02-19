@@ -7,7 +7,7 @@ configobj==5.0.8
 fastapi==0.87.0
 h11==0.14.0
 idna==3.4
-numpy==1.23.5
+numpy==1.21.6
 packaging==23.0
 pandas==1.5.3
 patsy==0.5.3
@@ -37,7 +37,6 @@ typing_extensions==4.4.0
 tzdata==2022.7
 uvicorn==0.20.0
 wcwidth==0.2.6
-
 absl-py==1.2.0
 albumentations==1.2.1
 altair==4.2.0
