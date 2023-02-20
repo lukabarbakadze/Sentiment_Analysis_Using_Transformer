@@ -41,4 +41,5 @@ pred = idx2class[clas]
 # add corresponding emoji to class
 emoji = ["blush", "neutral_face", "slightly_frowning_face"]
 # return Tweet Sentiment to User
-st.write(f"Tweet Sentiment: {pred} :{emoji[clas]}:")
+if msg == True:
+    st.write(f"Tweet Sentiment: {pred} :{emoji[clas]}:")

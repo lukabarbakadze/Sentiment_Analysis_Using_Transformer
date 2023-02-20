@@ -74,8 +74,6 @@ class FeedFoward(nn.Module):
         return self.net(x) # (B,T,d_emb)
     
 class Block(nn.Module):
-    """ Transformer block: communication followed by computation """
-
     def __init__(self, d_emb, num_heads):
         super().__init__()
         head_size = d_emb // num_heads
