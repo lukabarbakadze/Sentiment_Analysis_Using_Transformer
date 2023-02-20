@@ -1,1 +1,3 @@
-# Sentiment_Analysis_Using_Transformer
+# Sentiment Analysis Using Encoder-Based Transformer from SCRATCH
+___
+<!-- In this project -->
