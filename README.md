@@ -2,6 +2,7 @@
 ___
 The project is mainly focused on building Transformer-Based Classifier from scratch. For simplicity, I only used Encoder Blocks of transformer in the model. To ensure that model works, I trained it on a simple Tweets dataset from Kaggle. There is link below for a simple Streamlit-Based API for the model.
 * [Application Link](https://lukabarbakadze-sentiment-analysis-using-transformer-app-uccs6l.streamlit.app/)
+* [Dataset Link (Kaggle)](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
 ___
 ### Files Description
 * main.ipynb - Main Working File
