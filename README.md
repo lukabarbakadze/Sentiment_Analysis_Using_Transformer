@@ -6,7 +6,7 @@ The project is mainly focused on building Transformer-Based Classifier from scra
 ___
 ### Files Description
 * main.ipynb - Main Working File
-* app.py - Simple Application hosted on Streamli Cloud to access model
+* app.py - Simple Application hosted on Streamlit Cloud to access model
 * Model_Builder.py - Module which defines Transformer Bult in main.ipynb
 * word2int.py - simple word-to-integer encoder
 ___
